@@ -1,5 +1,6 @@
 Introduction
-The Movie Management Backend System is a RESTful API built with Express.js and MongoDB. It provides endpoints for user authentication, movie creation, updating, deletion, and rating. This project uses JWT for authentication and Multer for handling image uploads.
+The Movie Management Backend System is a RESTful API built with Express.js and MongoDB. It provides endpoints for user authentication, movie creation, updating, deletion, and rating. 
+This project uses JWT for authentication and Multer for handling image uploads.
 
 Features
 User registration and login
